@@ -1,0 +1,18 @@
+#myCanvas{
+  border: 3px solid black;
+}
+
+.props{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+}
+
+.makeFlex{
+  display: flex;
+}
+
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
